@@ -1,6 +1,6 @@
-# ZKsync OS Interface
+# ADI Stack OS Interface
 
-This repository contains the stable MultiVM interface for ZKsync OS that is meant to be implemented by all releases of [adi-stack-os](https://github.com/ADI-Foundation-Labs/ADI-Stack-zkOS). 
+This repository contains the stable MultiVM interface for ADI Stack OS that is meant to be implemented by all releases of [adi-stack-os](https://github.com/ADI-Foundation-Labs/ADI-Stack-zkOS). 
 
 ## Policies
 
